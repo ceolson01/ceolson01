@@ -1,4 +1,14 @@
-### Hi there 👋
+# Curtis Olson - @ceolson01
+
+##### Hi 👋
+
+I'm Curtis - a software engineer, consultant, and entrepreneur. While I have experience in both frontend and backend engineering roles, my real interests lie on the frontend. I'm a Traverse City, Michigan native currently living in Nashville, Tennessee.
+
+## Interests of Mine
+:guitar: I play guitar<br/>
+:running_man: I'm a runner<br/>
+:chart_with_upwards_trend: I'm an investor<br/>
+:dog2: I have a wonderful samoyed named Jack<br/>
 
 <!--
 **ceolson01/ceolson01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
